@@ -1,6 +1,5 @@
 # tpGit
-Matias Mpgica
+Matias Mogica
 Florencia Sol Heredia
  Ayrton Carli
  Ayelen Dargel
- 
